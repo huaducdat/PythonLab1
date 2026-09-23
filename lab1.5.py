@@ -1,0 +1,6 @@
+num1 = float(input("Nhập số thứ nhất: "))
+num2 = float(input("Nhập số thứ hai: "))
+print("Tổng: ", num1 + num2)
+print("Hiệu: ", num1 - num2)
+print("Tích", num1 * num2)
+print("Thương: ", num1 / num2)

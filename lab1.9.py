@@ -1,0 +1,5 @@
+full_name = input("Nhập họ và tên: ")
+parts = full_name.split()
+print("Họ: ", parts[0])
+print("Tên đệm: ", parts[1])
+print("Tên: ", parts[2])
